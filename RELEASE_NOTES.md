@@ -6,44 +6,44 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 DataScout Enterprise Platform v1.0.0 is the first production-ready release, featuring a complete multi-agent AI system for intelligent data analysis, natural language SQL queries, document search, and dynamic visualization.
 
 ---
 
-## ✨ Highlights
+## Highlights
 
 ### What's New
 
-1. **🤖 Multi-Agent Orchestration**
+1. ** Multi-Agent Orchestration**
    - LangGraph-powered Supervisor for intelligent query routing
    - GPT-4o integration across all agents
    - Automatic agent selection based on query intent
 
-2. **📊 Dynamic Visualization**
+2. ** Dynamic Visualization**
    - Automatic chart type selection
    - Real-time chart rendering
    - Support for Bar, Line, Pie, and Area charts
 
-3. **🔍 Intelligent Document Search**
+3. ** Intelligent Document Search**
    - PDF upload and ingestion
    - Pinecone vector database (1024 dimensions)
    - Source citation in responses
 
-4. **📈 Analytics Dashboard**
+4. ** Analytics Dashboard**
    - Real-time performance metrics
    - Query success rate tracking
    - Agent performance breakdown
 
-5. **⚙️ Settings Management**
+5. ** Settings Management**
    - Theme switching (Dark/Light/Auto)
    - OpenAI model selection
    - Persistent user preferences
 
 ---
 
-## 🔧 Technical Improvements
+## Technical Improvements
 
 ### Backend
 - **Performance:** Average response time <2000ms
@@ -59,7 +59,7 @@ DataScout Enterprise Platform v1.0.0 is the first production-ready release, feat
 
 ---
 
-## 📊 Metrics
+## Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -73,7 +73,7 @@ DataScout Enterprise Platform v1.0.0 is the first production-ready release, feat
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ```bash
 # Quick start
@@ -99,7 +99,7 @@ Visit http://localhost:3000
 
 ---
 
-## 📦 What's Included
+## What's Included
 
 ### Core Features
 ✅ Multi-agent chat interface  
@@ -120,7 +120,7 @@ Visit http://localhost:3000
 
 ---
 
-## 🔄 Migration Guide
+## Migration Guide
 
 ### Upgrading from v0.9.0
 
@@ -140,7 +140,7 @@ python init_db.py
 
 ---
 
-## ⚠️ Known Issues
+## Known Issues
 
 ### Minor
 - Collaborate page is UI-only (no backend implementation)
@@ -154,7 +154,7 @@ python init_db.py
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 ### Backend
 - Python 3.11+
@@ -170,7 +170,7 @@ python init_db.py
 
 ---
 
-## 📈 Performance Benchmarks
+## Performance Benchmarks
 
 | Operation | Time |
 |-----------|------|
@@ -181,7 +181,7 @@ python init_db.py
 
 ---
 
-## 🔐 Security Updates
+## Security Updates
 
 - ✅ Environment variable validation
 - ✅ SQL injection prevention
@@ -190,7 +190,7 @@ python init_db.py
 
 ---
 
-## 🎯 Roadmap (v1.1.0)
+## Roadmap (v1.1.0)
 
 - [ ] Collaborate workspace backend
 - [ ] Real-time streaming responses
@@ -200,7 +200,7 @@ python init_db.py
 
 ---
 
-## 🙏 Thank You
+## Thank You
 
 Special thanks to:
 - OpenAI for GPT-4o
@@ -210,11 +210,11 @@ Special thanks to:
 
 ---
 
-## 📞 Support
+## Support
 
 - **Documentation:** [README.md](README.md)
 - **Issues:** GitHub Issues
-- **Email:** support@datascout.ai
+- **Email:** drmbilal172@gmail.com
 
 ---
 
