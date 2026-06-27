@@ -285,5 +285,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 - **LinkedIn:** [Muhammad Bilal Khan](https://www.linkedin.com/in/muhammad-bilal-khan-885ai654)
 
 ---
-
-**Made with ❤️ using FastAPI, Next.js, LangChain, and GPT-4o**
