@@ -280,8 +280,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-- **Email:** drmbilal172@gmail.com
-- **GitHub:** [@MBilalKhanAI](https://github.com/MBilalKhanAI)
+- **Email:** khan.muhammadbilal654@gmail.com
 - **LinkedIn:** [Muhammad Bilal Khan](https://www.linkedin.com/in/muhammad-bilal-khan-885ai654)
 
 ---
