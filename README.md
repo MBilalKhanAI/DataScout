@@ -38,7 +38,7 @@ DataScout is an enterprise-grade AI platform that combines multiple specialized 
 
 This project consists of two independent microservices:
 
-### [📦 Backend API](https://github.com/MBilalKhanAI/DataScout-backend)
+### [📦 Backend ](https://github.com/MBilalKhanAI/DataScout-backend)
 FastAPI backend with LangGraph multi-agent system
 - Supervisor, SQL, RAG, and Visualizer agents
 - 15 API endpoints
